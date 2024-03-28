@@ -1,0 +1,29 @@
+import turtle as t
+
+kanye = t.Turtle()
+
+kanye.dot(20, "red")
+
+#OR
+#kanye.color("black")
+#kanye.dot(50)
+
+# kanye.forward(50)
+# kanye.color("black")
+# 
+# kanye.circle(50)
+
+# kanye.dot(130, "black")
+# kanye.dot(110, "white")
+# kanye.dot(90, "black")
+# kanye.dot(70, "white")
+# kanye.dot(40, "red")
+
+def makeTarget(ring_count):
+    for ring_count in makeTarget:
+        kanye.dot(130, "black")
+        kanye.dot(110, "white")
+        kanye.dot(90, "black")
+        kanye.dot(70, "white")
+        kanye.dot(40, "red")
+
